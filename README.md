@@ -1,11 +1,14 @@
-# გამარჯობა, მე ირაკლი ვარ! 👋
+# Hi there, I'm Irakli! 👋
 
-მე ვარ კომპიუტერული მეცნიერებების სტუდენტი Alte University-დან. ჩემი ინტერესის სფეროა ვებ და მობილური დეველოპმენტი.
+I am a Computer Science student at Alte University, passionate about building functional and user-friendly applications. I focus on both web and mobile development.
 
-- 💻 **Front-end:** JavaScript, React & Python.
+- 💻 **Front-end:** JavaScript, React, and Python.
 - 📱 **Mobile:** Android Development (Kotlin, Firebase, Room).
-- 🤖 **AI Tools:** აქტიურად ვიყენებ AI ხელსაწყოებს კოდის ოპტიმიზაციისა და UI ტექსტების დასახვეწად.
+- 🤖 **AI for Productivity:** I actively use AI tools to optimize my code, debug logic, and improve documentation.
 
-### დამიკავშირდით:
+### Connect with me:
 - [LinkedIn Profile](https://www.linkedin.com/in/irakli-matcharashvili-b002003a7/)
-- [Portfolio Website](აქ_ჩასვი_შენი_ნოუშენის_ლინკი)
+- [Portfolio Website](PASTE_YOUR_NOTION_LINK_HERE)
+
+---
+*This profile is part of my IT Career Management coursework, focusing on building a professional digital ecosystem.*
