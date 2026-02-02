@@ -18,7 +18,7 @@ I use AI tools as professional assistants to optimize my workflow:
 
 ### 🌐 Connect with me:
 * [LinkedIn Profile](https://www.linkedin.com/in/irakli-matcharashvili-b002003a7/)
-* [Portfolio Website](https://sincere-piccolo-aca.notion.site/Irakli-Matcharashvili-IT-Portfolio-2f87a2cbab9f80418995dff2861569b6?source=copy_link)
+* [Portfolio Website](https://sincere-piccolo-aca.notion.site/Irakli-Matcharashvili-IT-Portfolio-2f87a2cbab9f80418995dff2861569b6?pvs=143)
 
 ---
 *This profile is part of my **IT Career Management** coursework, focusing on building a professional digital ecosystem by integrating GitHub, LinkedIn, and AI tools.*
