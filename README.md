@@ -1,4 +1,4 @@
-# Hi there, I'm Irakli! 👋
+# Hi there, I'm Irakli! 
 
 I am a Computer Science student at Alte University, passionate about building functional and user-friendly applications. I focus on both web and mobile development.
 
